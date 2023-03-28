@@ -1,0 +1,6 @@
+C:\Users\tudul\source\repos\AirPlan\obj\Debug\AirPlan.csproj.AssemblyReference.cache
+C:\Users\tudul\source\repos\AirPlan\obj\Debug\AirPlan.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudul\source\repos\AirPlan\obj\Debug\AirPlan.Form1.resources
+C:\Users\tudul\source\repos\AirPlan\obj\Debug\AirPlan.Properties.Resources.resources
+C:\Users\tudul\source\repos\AirPlan\obj\Debug\AirPlan.csproj.GenerateResource.cache
+C:\Users\tudul\source\repos\AirPlan\obj\Debug\AirPlan.csproj.CoreCompileInputs.cache

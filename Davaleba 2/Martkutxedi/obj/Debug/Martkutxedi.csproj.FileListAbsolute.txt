@@ -1,0 +1,11 @@
+C:\Users\tudul\source\repos\Martkutxedi\bin\Debug\Martkutxedi.exe.config
+C:\Users\tudul\source\repos\Martkutxedi\bin\Debug\Martkutxedi.exe
+C:\Users\tudul\source\repos\Martkutxedi\bin\Debug\Martkutxedi.pdb
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.csproj.AssemblyReference.cache
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.Form1.resources
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.Properties.Resources.resources
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.csproj.GenerateResource.cache
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.csproj.CoreCompileInputs.cache
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.exe
+C:\Users\tudul\source\repos\Martkutxedi\obj\Debug\Martkutxedi.pdb

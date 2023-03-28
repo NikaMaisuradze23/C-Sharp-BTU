@@ -1,0 +1,11 @@
+C:\Users\tudul\source\repos\Moswavle\bin\Debug\Moswavle.exe.config
+C:\Users\tudul\source\repos\Moswavle\bin\Debug\Moswavle.exe
+C:\Users\tudul\source\repos\Moswavle\bin\Debug\Moswavle.pdb
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.csproj.AssemblyReference.cache
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.Form1.resources
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.Properties.Resources.resources
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.csproj.GenerateResource.cache
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.csproj.CoreCompileInputs.cache
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.exe
+C:\Users\tudul\source\repos\Moswavle\obj\Debug\Moswavle.pdb

@@ -1,0 +1,11 @@
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.csproj.AssemblyReference.cache
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.Properties.Resources.resources
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.csproj.GenerateResource.cache
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.csproj.CoreCompileInputs.cache
+C:\Users\tudul\source\repos\Samkutxedi\bin\Debug\Samkutxedi.exe.config
+C:\Users\tudul\source\repos\Samkutxedi\bin\Debug\Samkutxedi.exe
+C:\Users\tudul\source\repos\Samkutxedi\bin\Debug\Samkutxedi.pdb
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.Form1.resources
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.exe
+C:\Users\tudul\source\repos\Samkutxedi\obj\Debug\Samkutxedi.pdb

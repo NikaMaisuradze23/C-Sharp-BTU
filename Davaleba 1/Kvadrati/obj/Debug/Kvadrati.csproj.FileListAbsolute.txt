@@ -1,0 +1,11 @@
+C:\Users\tudul\source\repos\Kvadrati\bin\Debug\Kvadrati.exe.config
+C:\Users\tudul\source\repos\Kvadrati\bin\Debug\Kvadrati.exe
+C:\Users\tudul\source\repos\Kvadrati\bin\Debug\Kvadrati.pdb
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.csproj.AssemblyReference.cache
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.Form1.resources
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.Properties.Resources.resources
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.csproj.GenerateResource.cache
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.csproj.CoreCompileInputs.cache
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.exe
+C:\Users\tudul\source\repos\Kvadrati\obj\Debug\Kvadrati.pdb
