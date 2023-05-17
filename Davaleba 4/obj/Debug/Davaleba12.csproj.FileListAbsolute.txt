@@ -1,0 +1,11 @@
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.csproj.AssemblyReference.cache
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.Form1.resources
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.Properties.Resources.resources
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.csproj.GenerateResource.cache
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.csproj.CoreCompileInputs.cache
+C:\Users\tudul\source\repos\Davaleba12\bin\Debug\Davaleba12.exe.config
+C:\Users\tudul\source\repos\Davaleba12\bin\Debug\Davaleba12.exe
+C:\Users\tudul\source\repos\Davaleba12\bin\Debug\Davaleba12.pdb
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.exe
+C:\Users\tudul\source\repos\Davaleba12\obj\Debug\Davaleba12.pdb
